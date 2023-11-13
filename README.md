@@ -3,9 +3,9 @@
 </div>
 
 
-<h1 align="center"> API REST com Spring Boot - Usuario </h1>
+<h1 align="center"> API REST com Spring Boot - E-Commerce </h1>
 
-Este repositório foi criado para armazenar a resolução do Trabalho Efetivo Discente (TED) da matéria de Tecnologias WEB II, ministrada pelo Professor Gláucio Rocha, do curso de Análise e Desenvolvimento de Sistemas do UNIESP Centro Universitário. 
+Este repositório foi criado para armazenar a resolução do Projeto Integrador IV, ministrada pelo Professor Gláucio Rocha, do curso de Análise e Desenvolvimento de Sistemas do UNIESP Centro Universitário. 
 
 
 <br>
@@ -34,9 +34,8 @@ Este projeto foi desenvolvido com a seguinte tecnologia:
 
 ## 🎯 Desafio
 
-Desenvolva uma API REST utilizando o Spring Boot com um Resource chamado Usuario, que deve ter os seguintes campos: Id, nome, email, dataNascimento e password.
-
-O aluno deve implementar os métodos: obterTodosOsUsuarios(), obterUsuarioPorId(), adicionarUsuario(), removerUsuario() e editarUsuario(). 
+Desenvolver uma REST API, utilizando Java e Spring, com pelo
+menos 4 serviços presentes na análise do caso hipotético. Exemplo: serviço de manutenção de clientes, de fornecedores etc.
 
 
 
