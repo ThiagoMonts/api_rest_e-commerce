@@ -19,6 +19,13 @@ Este repositório foi criado para armazenar a resolução do Projeto Integrador 
 
 <br>
 
+<p align="center">
+  <img alt="tela post" src=".github/postmanPost.png" width="100%">
+  <img alt="tela get" src=".github/postmanGet.png" width="100%">
+</p>
+
+<br>
+
 
 ## 🚀 Tecnologias
 
